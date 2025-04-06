@@ -40,18 +40,18 @@ If you are proposing a feature:
 
 ## Get Started!
 
-Ready to contribute? Here's how to set up `pycounts` for local development.
+Ready to contribute? Here's how to set up `pycounts_whh` for local development.
 
-1. Download a copy of `pycounts` locally.
+1. Download a copy of `pycounts_whh` locally.
 
-2. Create and activate a conda environment for `pycounts`:
+2. Create and activate a conda environment for `pycounts_whh`:
 
     ```console
-    $ conda create -n pycounts python=3.12
-    $ conda activate pycounts
+    $ conda create -n pycounts_whh python=3.12
+    $ conda activate pycounts_whh
     ```
 
-3. Install `pycounts` using `poetry`:
+3. Install `pycounts_whh` using `poetry`:
 
     ```console
     $ poetry install
@@ -77,5 +77,5 @@ Before you submit a pull request, check that it meets these guidelines:
 
 ## Code of Conduct
 
-Please note that the `pycounts` project is released with a
+Please note that the `pycounts_whh` project is released with a
 Code of Conduct. By contributing to this project you agree to abide by its terms.

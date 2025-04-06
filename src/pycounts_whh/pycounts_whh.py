@@ -1,6 +1,7 @@
 from collections import Counter
 from string import punctuation
 
+
 def load_text(input_file):
     """Load text from a text file and return as a string.
 
@@ -44,7 +45,7 @@ def clean_text(text):
     for p in punctuation:
         text = text.replace(p, "")
     return text
-
+    
 def count_words(input_file):
     """Count words in a text file.
 

@@ -5,17 +5,17 @@ Calculate word counts in a text file!
 ## Installation
 
 ```bash
-pip install pycounts
+pip install pycounts_whh
 ```
 
 ## Usage
 
-`pycounts` can be used to count words in a text file and plot results
+`pycounts_whh` can be used to count words in a text file and plot results
 as follows:
 
 ```python
-from pycounts.pycounts import count_words
-from pycounts.plotting import plot_words
+from pycounts_whh.pycounts_whh import count_words
+from pycounts_whh.plotting import plot_words
 import matplotlib.pyplot as plt
 
 file_path = "test.txt"  # path to your file
@@ -32,12 +32,12 @@ By contributing to this project, you agree to abide by its terms.
 
 ## License
 
-`pycounts` was created by Tomas Beuzen. It is licensed under the terms
+`pycounts_whh` was created by William Ho. It is licensed under the terms
 of the MIT license.
 
 ## Credits
 
-`pycounts` was created with 
+`pycounts_whh` was created with 
 [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and 
 the `py-pkgs-cookiecutter` 
 [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).
